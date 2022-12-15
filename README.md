@@ -103,4 +103,4 @@ VOL            Exibe o rótulo de volume e o número de série de um disco.
 XCOPY          Copia arquivos e árvores de diretórios.
 WMIC           Exibe informações WMI em um comando interativo do shell.
 
-Para obter mais informações sobre ferramentas, consulte a referência a linhas de comando na ajuda online.
+Para obter mais informações sobre ferramentas, consulte a referência a linhas de comando na ajuda online...
